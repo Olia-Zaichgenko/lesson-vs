@@ -11465,19 +11465,19 @@ var import_react = /* @__PURE__ */ __toESM(require_react(), 1);
 var import_client = require_client();
 //#endregion
 //#region src/assets/img/bg.png
-var bg_default = "http://lesson-vs.sfera.local/assets/bg-BGhK589l.png";
+var bg_default = "/lesson-vs/assets/bg-BGhK589l.png";
 //#endregion
 //#region src/main/constants/constants.tsx
 var images = /* #__PURE__ */ Object.assign({
 	"../../assets/img/bg.png": bg_default,
-	"../../assets/img/child-a1.png": "http://lesson-vs.sfera.local/assets/child-a1-pPUpLOxV.png",
-	"../../assets/img/child-a2.png": "http://lesson-vs.sfera.local/assets/child-a2-niaR3OBk.png",
-	"../../assets/img/child-a3.png": "http://lesson-vs.sfera.local/assets/child-a3-C50MT67B.png",
-	"../../assets/img/child-a4.png": "http://lesson-vs.sfera.local/assets/child-a4-CirMrM-Y.png",
-	"../../assets/img/child1.png": "http://lesson-vs.sfera.local/assets/child1-B6wOTG_X.png",
-	"../../assets/img/child2.png": "http://lesson-vs.sfera.local/assets/child2-BEapwmcI.png",
-	"../../assets/img/child3.png": "http://lesson-vs.sfera.local/assets/child3-goWXahPc.png",
-	"../../assets/img/child4.png": "http://lesson-vs.sfera.local/assets/child4-CdCD0ayO.png"
+	"../../assets/img/child-a1.png": "/lesson-vs/assets/child-a1-pPUpLOxV.png",
+	"../../assets/img/child-a2.png": "/lesson-vs/assets/child-a2-niaR3OBk.png",
+	"../../assets/img/child-a3.png": "/lesson-vs/assets/child-a3-C50MT67B.png",
+	"../../assets/img/child-a4.png": "/lesson-vs/assets/child-a4-CirMrM-Y.png",
+	"../../assets/img/child1.png": "/lesson-vs/assets/child1-B6wOTG_X.png",
+	"../../assets/img/child2.png": "/lesson-vs/assets/child2-BEapwmcI.png",
+	"../../assets/img/child3.png": "/lesson-vs/assets/child3-goWXahPc.png",
+	"../../assets/img/child4.png": "/lesson-vs/assets/child4-CdCD0ayO.png"
 });
 var path = "../../assets/img/";
 var img = (name) => images[`${path}${name}`];
